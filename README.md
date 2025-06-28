@@ -9,8 +9,8 @@ This project predicts plant diseases from leaf images using a Convolutional Neur
 ---
 ## Demo
 
-![App Screenshot](Screenshot(27).png) 
-![App Screenshot](Screenshot(26).png) 
+![App Screenshot](Screenshot (26).png) 
+![App Screenshot](Screenshot (27).png) 
 
 ---
 ## Features
